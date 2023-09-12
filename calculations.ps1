@@ -80,6 +80,4 @@ Write-Host "Power (P) = $calculatedPower Watts"
 $calculatedFrequency = CalculateResonantFrequency -inductance 0.1 -capacitance 0.001
 Write-Host "Resonant Frequency (f) = $calculatedFrequency Hz"
 
-# You can add more formulas and functions as needed for your calculations
-
 # End of the script
